@@ -1,5 +1,18 @@
 # Spam Email Detection Project
 
+## Demo
+
+您可以在以下連結體驗即時的垃圾郵件分類系統：
+
+[https://hw3spamemail2025.streamlit.app/]
+
+### 演示功能
+- 資料集分析與視覺化
+- 模型性能評估
+- 即時垃圾郵件預測
+- 互動式閾值調整
+- 文本特徵分析
+
 ## 來源參考 / Source Reference
 
 本專案基於 Packt 倉庫第 3 章的垃圾郵件問題相關模式和數據集。我們擴充了預處理步驟並添加了更豐富的視覺化工作。
